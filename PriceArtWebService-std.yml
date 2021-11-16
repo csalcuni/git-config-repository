@@ -1,0 +1,15 @@
+#Application Config
+application:
+   listino: 1
+   sconto: 0
+
+# ===============================
+# ACTUATOR INFO
+# ===============================
+info:
+   assistenza:
+      nome: "Nicola La Rocca"
+   nome:
+      nome-app: "Price Art Web Service - Versione autenticazione JWT"
+   profilo: "Standard con sconto"
+
