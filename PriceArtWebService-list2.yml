@@ -1,6 +1,6 @@
 #Application Config
 application:
-   listino: 1
+   listino: 2
    sconto: 0
 
 # ===============================
@@ -11,5 +11,5 @@ info:
       nome: "Nicola La Rocca"
    nome:
       nome-app: "Price Art Web Service - Versione autenticazione JWT"
-   profilo: "Standard con sconto"
+   profilo: "Listino 2 con sconto"
 
