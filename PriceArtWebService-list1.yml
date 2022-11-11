@@ -1,0 +1,33 @@
+#Application Config
+application:
+  listino: 1
+
+# ===============================
+# ACTUATOR PARAMETERS
+# ===============================
+management:
+  info:
+    env:
+      enabled: true
+    git:
+      enabled: true
+      mode:full
+    endpoint:
+      health:
+        show-details: WHEN_AUTHORIZED
+    endpoints:
+      web:
+        exposure:
+          include: health, info, metrics
+
+# ===============================
+# ACTUATOR INFO
+# ===============================
+info:
+  assistenza:
+    nome: Nicola La Rocca
+    mail: nicolino@email.it
+  nome:
+    nome-app: "Price Art Web Service - Versiona autenticazione JWT"
+  profilo: GitHub
+
