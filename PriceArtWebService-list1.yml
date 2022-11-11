@@ -25,7 +25,7 @@ management:
 # ===============================
 info:
   assistenza:
-    nome: Nicola La Rocca
+    nome: Nicola La Rocchia
     mail: nicolino@email.it
   nome:
     nome-app: "Price Art Web Service - Versiona autenticazione JWT"
