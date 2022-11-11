@@ -11,7 +11,7 @@ management:
       enabled: true
     git:
       enabled: true
-      mode:full
+      mode: full
     endpoint:
       health:
         show-details: WHEN_AUTHORIZED
